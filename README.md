@@ -1,3 +1,4 @@
 # hello-world
 My first repository
-Ahoj, jmenuji se Vojta. Zacal jsme pracovat v CN Group company.
+Byl vymazan radek.
+Toto je zmena provedena v branch 2.
